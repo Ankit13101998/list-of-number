@@ -1,0 +1,14 @@
+list=[12,-7,5,64,-14]
+for i in list:
+     if i>0:
+         print(i)
+         
+         
+o/p: 12,5,64
+
+list2=[12,14,-95,3]
+for i in list2:
+      if i>0:
+          print (i)
+          
+o/p: 12,14,3
